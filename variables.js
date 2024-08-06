@@ -14,18 +14,20 @@
 //name = "Chris"
 //console.log(`Hi. My name is ${name}. I'm + ${age} years old, and my favourite drink is ${favouriteDrink}.`);
 
+//Activity 0
+console.log("   |  |    ")
+console.log("   |  |    ")
+console.log("   |  |    ")
+console.log("-----------")
+console.log("   |  |    ")
+console.log("   |  |    ")
+console.log("   |  |    ")
+console.log("-----------")
+console.log("   |  |    ")
+console.log("   |  |    ")
+console.log("   |  |    ")
+
 //Activity 1
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("-----------")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("-----------")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
 
 //Activity 2
 let Breakfast = "Biscuits";
