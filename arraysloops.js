@@ -41,15 +41,23 @@
 // }
 //     console.log("Coming right up!");
 
-let favFilms =[
-    "Akira",
-    "NO ONE LIVES",
-    "Pokemon the first movie",
-    "Deathwish",
-    "Cult of Chucky"
-]
-favFilms.push("Nightmare before Christmas", "The Lion King")
-console.log(favFilms);
+//Activity 1 loops
+// let favFilms =[
+//     "Akira",
+//     "NO ONE LIVES",
+//     "Pokemon the first movie",
+//     "Deathwish",
+//     "Cult of Chucky"
+// ]
+// favFilms.push("Nightmare before Christmas", "The Lion King")
+// console.log(favFilms);
 
-for(let i =0; i < favFilms; i++){
-    console.log(favFilms[i]);}
+// for(let i =0; i < favFilms; i++){
+//     console.log(favFilms[i]);}
+
+//Activity 2
+let numbers = [];
+for (let i = 0; i < 6; i++) { let randomNumber = Math.floor(Math.random() * 50) + 1;
+  numbers.push(randomNumber);
+  console.log(numbers);
+}
