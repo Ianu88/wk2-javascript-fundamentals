@@ -59,16 +59,16 @@
 
 // // //Activity 2
 
-// let topping = "Cheese"
+let topping = "Cheese"
 
-// switch (topping) {
-// case "Cheese": console.log ("Extra cheesey is my favourite!")
-//     break
-// case "ham": console.log ("Ham is fine with me!")
-//     break
-// case "redPepper": console.log ("I don't mind red peppers")
-//     break
-// case "redOnion": console.log ("I don't eat onion, just can't stand the taste!")
+switch (topping) {
+case "Cheese": console.log ("Extra cheesey is my favourite!")
+    break
+case "ham": console.log ("Ham is fine with me!")
+    break
+case "redPepper": console.log ("I don't mind red peppers")
+    break
+case "redOnion": console.log ("I don't eat onion, just can't stand the taste!")
 
-// }
+}
 //.length at the end of a string gives number of characters

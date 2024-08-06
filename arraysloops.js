@@ -56,8 +56,21 @@
 //     console.log(favFilms[i]);}
 
 //Activity 2
-let numbers = [];
-for (let i = 0; i < 6; i++) { let randomNumber = Math.floor(Math.random() * 50) + 1;
-  numbers.push(randomNumber);
-  console.log(numbers);
-}
+// let numbers = [];
+// for (let i = 0; i < 6; i++) { let randomNumber = Math.floor(Math.random() * 50) + 1;
+//   numbers.push(randomNumber);
+//   console.log(numbers);
+// }
+//Activity 4 loops
+let Activity4 = [
+    "Adams family",
+    "Dennis the Menace",
+    "Charlie and the Chocolate factory",
+    "Coraline"
+] 
+if(Activity4 == "Ghostbusters") {
+    (console.log("Yay its Ghostbusters"))}
+else  {
+        (console.log("Boo! We want Ghostbusters"))}
+  
+console.log(Activity4);
