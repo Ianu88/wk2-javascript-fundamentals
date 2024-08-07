@@ -9,7 +9,23 @@
 // else if(age >= "60") {
 //      (console.log("That's £7.50, would you like help finding a seat?"))}
 
-const pressGrindBeans = () =>{
-    console.log ("Grinding for 20 seconds");
+// const pressGrindBeans = () =>{
+//     console.log ("Grinding for 20 seconds");
+// }
+// pressGrindBeans ();
+
+const favColor =(color) =>{
+    console.log (`my favourite colour is ${color}`)
 }
-pressGrindBeans ();
+favColor("white");
+favColor("Azure");
+favColor("maroon");
+// let coffeeIsGrinding = false;
+
+// const pressGrindBeans = () =>{
+//     if (coffeeIsGrinding =true)
+//     }
+//     console.log("Grinding beans for 20 seconds")
+//  { else if coffeeIsGrinding =false
+//  }
+//  console.log("Grinding beans for 20 seconds")
