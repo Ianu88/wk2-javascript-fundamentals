@@ -63,15 +63,16 @@
 // }
 // takeorder("Pineapple")
 
-let pin = "1078" 
-let balance = "£121"
+// Activity 3
+// let pin = "1078" 
+// let balance = "£121"
 
 
-if(pin === "1078" && balance <= "£120") {
-       (console.log("dispening your money, please retrieve your card."))}
-else if( pin < "1078") {
-       (console.log("incorrect pin"))}
-else if( pin > "1078") {
-       (console.log("incorrect pin"))}
-else if(balance > "£120") {
-       (console.log("Insufficient funds"))}
+// if(pin === "1078" && balance <= "£120") {
+//        (console.log("dispening your money, please retrieve your card."))}
+// else if( pin < "1078") {
+//        (console.log("incorrect pin"))}
+// else if( pin > "1078") {
+//        (console.log("incorrect pin"))}
+// else if(balance > "£120") {
+//        (console.log("Insufficient funds"))}
