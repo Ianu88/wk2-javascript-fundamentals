@@ -26,16 +26,16 @@
 // console.log(person.sayHi());
 
 //Activity 2
-let pet = {
-    name: "Gary",
-    typeOfPet:"gecko",
-    age: "23",
-    color: "yellow and green",
-    eat(){
-        return `${this.name} is eating.`;
-    },
-    drink(){
-        return`${this.name} is drinking.`
-    }
-}
-console.log(pet.drink());
+// let pet = {
+//     name: "Gary",
+//     typeOfPet:"gecko",
+//     age: "23",
+//     color: "yellow and green",
+//     eat(){
+//         return `${this.name} is eating.`;
+//     },
+//     drink(){
+//         return`${this.name} is drinking.`
+//     }
+// }
+// console.log(pet.drink());
