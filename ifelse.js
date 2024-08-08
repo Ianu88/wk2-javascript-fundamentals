@@ -85,13 +85,13 @@
 
 // Activity 6
 
-let time = "9am" 
-let placeOfWork = "Omnitech"
-let townOfHome = "Ormskirk"
+// let time = "9am" 
+// let placeOfWork = "Omnitech"
+// let townOfHome = "Ormskirk"
 
-if(time == "7am") {
-     (console.log(`I'm at home in ${townOfHome}`))}
-else if(time == "8am") {
-         (console.log(`I'm on my way to ${placeOfWork} at the ${townOfHome} branch`))}
-else if(time == "9am") {
-     (console.log(`I'm at ${placeOfWork}, the ${townOfHome} branch`))}
+// if(time == "7am") {
+//      (console.log(`I'm at home in ${townOfHome}`))}
+// else if(time == "8am") {
+//          (console.log(`I'm on my way to ${placeOfWork} at the ${townOfHome} branch`))}
+// else if(time == "9am") {
+//      (console.log(`I'm at ${placeOfWork}, the ${townOfHome} branch`))}
