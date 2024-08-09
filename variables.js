@@ -15,55 +15,59 @@
 //console.log(`Hi. My name is ${name}. I'm + ${age} years old, and my favourite drink is ${favouriteDrink}.`);
 
 //Activity 0
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("-----------")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("-----------")
-console.log("   |  |    ")
-console.log("   |  |    ")
-console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("-----------")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("-----------")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
+// console.log("   |  |    ")
 
 //Activity 1
 
 //Activity 2
-let Breakfast = "Biscuits";
+// let Breakfast = "Biscuits";
 
-let Lunch = "Hot Dogs";
+// let Lunch = "Hot Dogs";
 
-let Dinner = "Pizza";
-console.log(`Hi. My name is Ian. Today, for breakfast I had ${Breakfast}, for Lunch I Had ${Lunch}, and for Dinner I will have ${Dinner}.`);
+// let Dinner = "Pizza";
+// console.log(`Hi. My name is Ian. Today, for breakfast I had ${Breakfast}, for Lunch I Had ${Lunch}, and for Dinner I will have ${Dinner}.`);
 
-Breakfast = "Cereal";
+// Breakfast = "Cereal";
 
-Lunch = "Buttermilk Pancakes";
+// Lunch = "Buttermilk Pancakes";
 
-Dinner = "a Chicken and Mushroom slice";
-console.log(`Hi. My name is Ian. Tomorrow, for breakfast I will have ${Breakfast}, for Lunch I will Have ${Lunch}, and for Dinner I will have ${Dinner}.`)
+// Dinner = "a Chicken and Mushroom slice";
+// console.log(`Hi. My name is Ian. Tomorrow, for breakfast I will have ${Breakfast}, for Lunch I will Have ${Lunch}, and for Dinner I will have ${Dinner}.`)
 //Activity 3
-//Couldn't get this one right
+let date1 = new Date('8/9/2024');
+let date2 = new Date('2/22/2025');
+let diffTime = Math.abs(date2 - date1);
+let diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24)); 
+console.log(diffDays + " days");
 
 //Activity 4
-let space1 = "X"
-let space2 = "O"
-let space3 = " "
-let space4 = "X"
-let space5 = "X"
-let space6 = " "
-let space7 = "O"
-let space8 = " "
-let space9 = " "
-console.log("   |   |  ")
-console.log(` ${space1} | ${space2} |  ${space3}  `)
-console.log("   |   |  ")
-console.log("-----------")
-console.log("   |   |  ")
-console.log(` ${space4} | ${space5} |  ${space6}  `)
-console.log("   |   |  ")
-console.log("-----------")
-console.log("   |   |  ")
-console.log(` ${space7} | ${space8} |  ${space9}  `)
-console.log("   |   |  ")
+// let space1 = "X"
+// let space2 = "O"
+// let space3 = " "
+// let space4 = "X"
+// let space5 = "X"
+// let space6 = " "
+// let space7 = "O"
+// let space8 = " "
+// let space9 = " "
+// console.log("   |   |  ")
+// console.log(` ${space1} | ${space2} |  ${space3}  `)
+// console.log("   |   |  ")
+// console.log("-----------")
+// console.log("   |   |  ")
+// console.log(` ${space4} | ${space5} |  ${space6}  `)
+// console.log("   |   |  ")
+// console.log("-----------")
+// console.log("   |   |  ")
+// console.log(` ${space7} | ${space8} |  ${space9}  `)
+// console.log("   |   |  ")
