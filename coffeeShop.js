@@ -13,10 +13,11 @@ let coffeeShop = {
        total+= this.drinkslist [indexOfitem +1]
        console.log(`${drink[i]} £${this.drinkslist[indexOfitem +1].toFixed(2)}`)
         }
-       console.log(`Total: £${total.toFixed(2)}`)
     
     
     }
+           console.log(`\nTotal: £${total.toFixed(2)}`)
+
     }
     
 }
@@ -34,14 +35,14 @@ coffeeShop.drinksOrdered(["coffee", "Tea", "coffee"])
 //     console.log(`${this.branch} receipt\n`)
 //         for (const item of orderedItems)
 //         {
-//         if(this.menu[item] !== undefined)   {
+//         if(this.menu[item] !== undefined)   
 //             total +=this.menu[item]
 //         console.log(item, this.menu[item])}
 //         else{ 
 //             console.log(`Sorry, we don't serve this ${it}`)}
 
 //         }
-//         console.log(total)
-//     }
-// }        
+        
+    
+// }
 //  coffeeShop.Order(["coffee", "Tea", "cake"])
