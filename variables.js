@@ -44,11 +44,11 @@
 // Dinner = "a Chicken and Mushroom slice";
 // console.log(`Hi. My name is Ian. Tomorrow, for breakfast I will have ${Breakfast}, for Lunch I will Have ${Lunch}, and for Dinner I will have ${Dinner}.`)
 //Activity 3
-let date1 = new Date('8/9/2024');
-let date2 = new Date('2/22/2025');
-let diffTime = Math.abs(date2 - date1);
-let diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24)); 
-console.log(diffDays + " days");
+// let date1 = new Date('8/9/2024');
+// let date2 = new Date('2/22/2025');
+// let diffTime = Math.abs(date2 - date1);
+// let diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24)); 
+// console.log(diffDays + " days");
 
 //Activity 4
 // let space1 = "X"
